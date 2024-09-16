@@ -1,4 +1,4 @@
-# PowerBI
+# Healthcare Analytics with Power BI
 In this step-by-step guide, you'll master:
 
 1.Data import and cleaning techniques specific to healthcare datasets
