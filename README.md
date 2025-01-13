@@ -11,6 +11,7 @@ In this step-by-step guide, you'll master:
 
 5.Report design best practices for healthcare stakeholders
 
+
 Our dashboard deep-dives into crucial healthcare metrics:
 
 i.Patient Wait Time Analysis: Uncover bottlenecks and optimize patient flow
@@ -24,6 +25,7 @@ iv.Administrative vs. Clinical Appointment Breakdown: Balance operational tasks 
 v.Referral and Walk-In Patient Flows: Improve inter-department coordination
 
 vi.Age and Race Demographics: Tailor services to your patient population
+
 
 Key Insights Revealed:
 
