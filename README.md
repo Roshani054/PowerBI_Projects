@@ -84,5 +84,47 @@ IV. Effectiveness of investment strategies on wealth building
 
 V. Spending pattern shifts influencing financial planning
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Amtrak Analytics with Power BI # 
+
+Step-by-step guide
+
+Data import and cleaning techniques specific to Amtrak datasets, including station details, train schedules, and passenger metrics
+
+Advanced DAX formulas for calculating key metrics like on-time performance, station utilization, and amenity impact
+
+Custom visualizations that bring Amtrak’s operations to life, from geographic maps to interactive charts
+
+Interactive features for drill-down analysis by region, division, or station type
+
+Report design best practices tailored for transportation and logistics stakeholders
+
+# My dashboard deep-dives into crucial Amtrak metrics: #
+
+Station Amenities Analysis: Uncover gaps in QuikTrak, ticket offices, and baggage services
+
+Train Utilization Trends: Identify underutilized stations and optimize resource allocation
+
+On-Time Performance: Compare delays and efficiency across divisions like Northeast and Southwest
+
+Passenger Experience Metrics: Analyze waiting times, parking, and station comfort levels
+
+Population Correlation: Explore how population density impacts station usage
+
+Predictive Analytics: Forecast future passenger volume and delays for smarter planning
+
+# Key Insights Revealed:# 
+
+Stations with QuikTrak see 30% higher passenger satisfaction
+
+The Northeast Division leads with 85% on-time performance, while the Southwest lags at 72%
+
+20% of stations are underutilized, offering growth opportunities
+
+Stations in cities with populations over 200,000 have 50% higher train utilization
+
+Seasonal trends in passenger volume and their impact on resource planning
+
 
 
