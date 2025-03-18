@@ -114,7 +114,7 @@ Population Correlation: Explore how population density impacts station usage
 
 Predictive Analytics: Forecast future passenger volume and delays for smarter planning
 
-# Key Insights Revealed:# 
+# Key Insights Revealed # 
 
 Stations with QuikTrak see 30% higher passenger satisfaction
 
